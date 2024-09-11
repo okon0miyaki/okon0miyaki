@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-currently learning on kotlin 🌟
+Currently learning on kotlin 🌟
 
 Bangkit Academy 2024 Batch 2 🟥
 
 Mobile Development Cohort 🌠
 
 Software Engineer 🔨
+
+Code Backup Intentionally 🍃
 <!--
 **okon0miyaki/okon0miyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
