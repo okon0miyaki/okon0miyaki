@@ -3,6 +3,7 @@
 currently learning on kotlin 🌟
 
 Bangkit Academy 2024 Batch 2 🟥
+
 Mobile Development Cohort 🌠
 
 Software Engineer 🔨
