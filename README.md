@@ -21,7 +21,7 @@ find me on 🔍 : [LinkedIn](https://www.linkedin.com/in/rangga-felicia-fulfian/
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okon0miyaki&layout=compact&langs_count=8&theme=buefy"/>
+<img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okon0miyaki&layout=compact&langs_count=8&theme=buefy"/>
 <!--
 **okon0miyaki/okon0miyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
