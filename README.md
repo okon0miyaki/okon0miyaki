@@ -4,7 +4,7 @@ Currently learning on kotlin
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Bangkit Academy 2024 Batch 2 🟥
+Bangkit Academy 2024 Batch 2 🌠
 
 Mobile Development Cohort 
 
