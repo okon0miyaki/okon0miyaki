@@ -5,10 +5,10 @@ My name is **Rangga Felicia Fulfian**
 Bangkit Academy 2024 Batch 2 🌠
 
 Mobile Development Cohort
-&& ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ || ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Currently learning on kotlin 
-&& ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+ || ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 Code Backup Intentionally 🍃
 
