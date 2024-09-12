@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Rangga Felicia Fulfian
+My name is **Rangga Felicia Fulfian**
 
 Bangkit Academy 2024 Batch 2 🌠
 
-Mobile Development Cohort 
+<div align="left">Mobile Development Cohort 
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</div>
 
 Currently learning on kotlin 
 
