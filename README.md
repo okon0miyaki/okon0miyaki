@@ -10,7 +10,7 @@ Currently learning on kotlin
  
 Code Backup Intentionally 🍃
 
-find me on : 🔍 [LinkedIn](https://www.linkedin.com/in/rangga-felicia-fulfian/)
+find me on 🔍 : [LinkedIn](https://www.linkedin.com/in/rangga-felicia-fulfian/)
 
 ## Language
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
