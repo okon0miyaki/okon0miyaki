@@ -5,7 +5,7 @@ My name is **Rangga Felicia Fulfian** <img src="https://raw.githubusercontent.co
 Bangkit Academy 2024 Batch 2 🌠</br>
 Mobile Development Cohort
 
-Currently learning on kotlin
+Currently learning on Kotlin
  
 Code Backup Intentionally 🍃</br>
 find me on 🔍 : [LinkedIn](https://www.linkedin.com/in/rangga-felicia-fulfian/)
