@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Rangga Felicia Fulfian
+
 Bangkit Academy 2024 Batch 2 🌠
 
 Mobile Development Cohort 
