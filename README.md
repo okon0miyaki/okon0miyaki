@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Rangga Felicia Fulfian**
+My name is **Rangga Felicia Fulfian** <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="10" />
 
 Bangkit Academy 2024 Batch 2 🌠</br>
 Mobile Development Cohort
