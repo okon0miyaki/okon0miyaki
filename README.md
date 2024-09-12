@@ -8,7 +8,7 @@ Mobile Development Cohort
 Currently learning on kotlin 
  || ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
  
-Code Backup Intentionally 🍃
+Code Backup Intentionally 🍃</br>
 find me on 🔍 : [LinkedIn](https://www.linkedin.com/in/rangga-felicia-fulfian/)
 
 ## Language
